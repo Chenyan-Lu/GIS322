@@ -1,6 +1,5 @@
 # ASU-GIS-322
-This repository contains the learning materials for GIS 322: Programming Principals II.
-Designed by Wenwen Li (wenwen@asu.edu) and Ziqi Li (liziqi1992@gmail.com), improved by Yuanyuan Tian (ytian72@asu.edu), School of Geographical Sciences and Urban Planning, Arizona State University.
+This repository contains the learning materials for GIS 322: Programming Principals II, designed by Wenwen Li (wenwen@asu.edu) and Ziqi Li (liziqi1992@gmail.com), improved by Yuanyuan Tian (ytian72@asu.edu), School of Geographical Sciences and Urban Planning, Arizona State University.
 
 # Outline
 
